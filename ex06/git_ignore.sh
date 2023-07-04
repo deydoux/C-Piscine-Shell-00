@@ -1,1 +1,1 @@
-git check-ignore *
+git ls-files -oi --exclude-standard
